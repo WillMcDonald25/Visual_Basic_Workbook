@@ -1,5 +1,6 @@
 # Visual_Basic_Workbook
 Background
+
 In this workbook, I use VBA scripting to analyze generated stock market data.
 
 I created a script that loops through all the stocks for one year and outputs the following information:
